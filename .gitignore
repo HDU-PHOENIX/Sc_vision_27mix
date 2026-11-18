@@ -1,0 +1,17 @@
+.vscode/
+.github/
+.cache/
+build/
+Camera/
+logs/
+assets/img_with_q/
+records/
+records_auto_buff_big/
+imgs/
+MvSdkLog/
+testvideos/
+records_24/
+records_25/
+io/build/
+io/install/
+io/log/
